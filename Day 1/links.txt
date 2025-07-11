@@ -1,0 +1,6 @@
+semantic book reccomender: https://huggingface.co/spaces/nonsodev/semantic-book-recommender
+movie reccomendation: https://www.kaggle.com/code/kushsheth/kush-basicmoviereccomendation
+Generating images: https://huggingface.co/spaces/JigsawStack/image-generation
+image generation: https://colab.research.google.com/drive/1M9aBGsJSRSsHDQQQklsxVSXQ2lAio2_P#scrollTo=UYzT31sf4bMX
+Tinubu_peter: https://colab.research.google.com/drive/16yfUhQxk6CyAnx2Jp2aUBNh-LykGOxrQ#scrollTo=esAO4tyWkbWc
+Teachable: https://teachablemachine.withgoogle.com/train/image
